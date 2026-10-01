@@ -517,7 +517,7 @@ async-fs = "2.1"
 async-lock = "2.1"
 async-pipe = { git = "https://github.com/zed-industries/async-pipe-rs", rev = "82d00a04211cf4e1236029aa03e6b6ce2a74c553" }
 async-recursion = "1.0.0"
-async-tar = "0.5.1"
+async-tar = "0.6.1"
 async-task = "4.7"
 async-trait = "0.1"
 async-tungstenite = "0.31.0"
@@ -682,7 +682,7 @@ prost-types = "0.9"
 pollster = "0.4.0"
 pulldown-cmark = { version = "0.13.0", default-features = false }
 quote = "1.0.9"
-rand = "0.9"
+rand = "0.10"
 rayon = "1.8"
 regex = "1.5"
 # WARNING: If you change this, you must also publish a new version of zed-reqwest to crates.io
